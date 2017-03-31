@@ -73,3 +73,5 @@ Java 1.8.0_102
 
 ## How to run
 java -jar archive.jar /path/to/input/file.txt
+
+[![ghit.me](https://ghit.me/badge.svg?repo=GarciaPL/PaintShop)](https://ghit.me/repo/GarciaPL/PaintShop)
